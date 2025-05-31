@@ -1,5 +1,6 @@
 <% layout('layouts/boilerplate')%>
 <link rel="stylesheet" href="/stylesheets/stars.css" />
+<link rel="stylesheet" href="/stylesheets/show.css" />
 
 <div class="row">
   <div class="col-6">
@@ -66,7 +67,7 @@
   </div>
 
   <div class="col-6">
-    <div id="map" style="width: 400px; height: 300px"></div>
+    <div id="map"></div>
 
     <% if(currentUser){ %>
     <h2>Leave a Review</h2>
@@ -76,10 +77,6 @@
       class="mb-3 validated-form"
       novalidate
     >
-      <!-- <div class="mb-3">
-                <label class="form-label" for="rating">Rating</label>
-                <input class="form-range" type="range" min="1" max="5" name="review[rating]" id="rating">
-            </div> -->
       <fieldset class="starability-basic">
         <input
           type="radio"
