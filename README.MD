@@ -1,6 +1,6 @@
 # IsraCamp
 
-IsraCamp is a full-stack web application where users can discover, create, and review campgrounds across Israel. It includes features such as user authentication, map integration, and CRUD functionality for camps and reviews. Inspired by the _YelpCamp_ project from Colt Steele's Web Developer Bootcamp, with added customizations.
+IsraCamp is a full-stack web application where users can discover, create, and review campgrounds across Israel. It includes features such as user authentication, map integration, and CRUD functionality for camps and reviews. From the by the _YelpCamp_ project from Colt Steele's Web Developer Bootcamp.
 
 ## Features
 
