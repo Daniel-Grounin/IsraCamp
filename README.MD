@@ -58,8 +58,3 @@ npm start
 
 ## Screenshots
 
-_(Add screenshots here of homepage, campground page, review form, and map integration.)_
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
