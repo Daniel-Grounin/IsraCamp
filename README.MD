@@ -48,10 +48,6 @@ CLOUDINARY_KEY=your_cloudinary_key
 CLOUDINARY_SECRET=your_cloudinary_secret
 MAPBOX_TOKEN=your_mapbox_token
 DB_URL=your_mongodb_connection_string
-```env
-DATABASE_URL=your_mongo_uri
-MAPBOX_TOKEN=your_mapbox_token
-SESSION_SECRET=your_session_secret
 ````
 
 ### 4. Run the App
